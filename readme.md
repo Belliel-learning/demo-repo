@@ -1,3 +1,3 @@
 #demo
 
-learning is fun
+learning is fun!
